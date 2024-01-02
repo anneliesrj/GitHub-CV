@@ -81,7 +81,7 @@ header.shrink {
 }
 
 #About {
-  height: 400px;
+  height: 750px;
   background-color: white;
   display: flex;
   flex-direction: column;
@@ -90,7 +90,7 @@ header.shrink {
   text-align: center;
   color: #5d6853;
   padding: 20px;
-  margin-top: 40px;
+  margin-top: 50px;
   margin-bottom: 100px;
 }
 #About h1 {
@@ -98,7 +98,7 @@ header.shrink {
   margin-bottom: 40px;
 }
 #About p {
-  font-size: 17px;
+  font-size: 16px;
   line-height: 1.5;
   text-align: justify;
   width: 70%;
